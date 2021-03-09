@@ -1,0 +1,13 @@
+svg.HalfPie path {
+  transition: 0.3s;
+}
+
+svg.HalfPie path.base-major {
+  stroke: white;
+  stroke-width: 0.05;
+}
+
+svg.HalfPie path.base-minor {
+  stroke: white;
+  stroke-width: 0.01;
+}

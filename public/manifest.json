@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Sound Beamer",
+  "name": "Very simple audio beaming using two devices",
   "icons": [
     {
       "src": "favicon.ico",
